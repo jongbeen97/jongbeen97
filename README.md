@@ -99,7 +99,6 @@ Here are some ideas to get you started:
 ---
 
 ## 📌 PROJECT
-> 여기에 “대표 프로젝트 2~4개”만 박아두면 요즘 스타일로 엄청 좋아 보여.
 
 - ✅ **Project 1**: ()  
   - Repo: 
