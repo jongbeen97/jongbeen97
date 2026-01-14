@@ -24,9 +24,6 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-### 🚀 Full-Stack Developer in Progress  
-Java / Spring Boot / React 기반으로 웹 풀스택 포트폴리오를 만들고 있어요.
-
 </div>
 
 ---
