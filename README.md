@@ -99,9 +99,9 @@ Here are some ideas to get you started:
 
 ## 📌 PROJECT
 
-- ✅ **Project 1**: ()  
-  - Repo: 
-  - Stack: 
+- ✅ **Project 1**: 대동여집도()  
+  - Repo: https://github.com/jongbeen97/zipmap.git
+  - Stack: java,SpringFramework,MySQL,HTML,CSS,JavaScript,
 
 - ✅ **Project 2**: ()  
   - Repo: 
