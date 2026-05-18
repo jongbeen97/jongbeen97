@@ -105,9 +105,9 @@ Here are some ideas to get you started:
   - Repo: https://github.com/jongbeen97/zipmap.git
   - Stack: java,SpringFramework,MySQL,HTML,CSS,JavaScript,
 
-- ✅ **Project 2**: ()  
-  - Repo: 
-  - Stack: 
+- ✅ **Project 2**: Pleegie()  
+  - Repo: https://github.com/jongbeen97/pleegie.git
+  - Stack: java,springboot,MySQL,React,JavaScript,Python,LLM,Docker,Kubernetics
 
 ---
 
