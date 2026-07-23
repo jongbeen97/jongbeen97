@@ -102,13 +102,17 @@ Here are some ideas to get you started:
 
 ## 📌 PROJECT
 
-- ✅ **Project 1**: 대동여집도()  
+- ✅ **Project 1**: 대동여집도(2026.02.09~2026.03.09)  
   - Repo: https://github.com/jongbeen97/zipmap.git
-  - Stack: java,SpringFramework,MySQL,HTML,CSS,JavaScript,
+  - Stack: java,SpringFramework,MySQL,HTML,CSS,JavaScript
 
-- ✅ **Project 2**: Pleegie()  
+- ✅ **Project 2**: Pleegie(2026.04 ~ 2026.05.11)  
   - Repo: https://github.com/jongbeen97/pleegie.git
   - Stack: java,springboot,MySQL,React,JavaScript,Python,LLM,Docker,Kubernetics
+ 
+- ✅ **Project 3**: Basecamp(2026.07~2026.07.27)  
+  - Repo: 
+  - Stack: Java JDK 21 ,SpringBoot 5,React,TypeScript,JWT,Redis,Docker,GitActions
 
 ---
 
