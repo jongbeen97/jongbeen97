@@ -111,7 +111,7 @@ Here are some ideas to get you started:
   - Stack: java,springboot,MySQL,React,JavaScript,Python,LLM,Docker,Kubernetics
  
 - ✅ **Project 3**: Basecamp(2026.07~2026.07.27)  
-  - Repo: 
+  - Repo: https://github.com/jongbeen97/basecamp-back.git
   - Stack: Java JDK 21 ,SpringBoot 5,React,TypeScript,JWT,Redis,Docker,GitActions
 
 ---
